@@ -14,4 +14,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ![GitHub Snake Light](https://raw.githubusercontent.com/maqadeersaeed/maqadeersaeed/output/github-snake.svg)
-![GitHub Snake Dark](https://raw.githubusercontent.com/maqadeersaeed/maqadeersaeed/output/github-snake-dark.svg)
