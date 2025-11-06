@@ -13,4 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![GitHub Snake Light](https://raw.githubusercontent.com/maqadeersaeed/maqadeersaeed/output/github-snake.svg)
+
+<div align="center">
+  ![GitHub Snake Light](https://raw.githubusercontent.com/maqadeersaeed/maqadeersaeed/output/github-snake.svg)
+</div>div
