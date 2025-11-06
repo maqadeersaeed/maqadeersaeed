@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+<h1>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/> 
+  Hi, I'm <a href="http://www.danielcela.com/"><img src="https://github.com/user-attachments/assets/8e2fc82d-5062-4c00-bd84-2da0a68a6179" alt="Daniel's GitHub Avatar" width="60px"/> Daniel</a>!
+  <img align="right" src="https://komarev.com/ghpvc/?username=maqadeersaeed" alt="GitHub profile views counter">
+</h1>
+
 **maqadeersaeed/maqadeersaeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,5 +22,3 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://raw.githubusercontent.com/maqadeersaeed/maqadeersaeed/output/github-snake.svg" alt="GitHub Snake" />
 </div>
-
-#![snake gif](https://raw.githubusercontent.com/maqadeersaeed/maqadeersaeed/output/github-snake.svg)
