@@ -14,9 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-<!-- Snake Animation -->
-<div align="center">
-  ![snake gif](https://raw.githubusercontent.com/maqadeersaeed/maqadeersaeed/blob/output/github-snake.svg)
-</div>
-
-</div>
+![snake gif](https://raw.githubusercontent.com/maqadeersaeed/maqadeersaeed/blob/output/github-snake.svg)
