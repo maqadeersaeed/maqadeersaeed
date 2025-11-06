@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-![snake gif](https://raw.githubusercontent.com/maqadeersaeed/maqadeersaeed/blob/output/github-snake.svg)
+![snake gif](https://raw.githubusercontent.com/maqadeersaeed/maqadeersaeed/output/github-snake.svg)
