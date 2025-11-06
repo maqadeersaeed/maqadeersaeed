@@ -20,3 +20,10 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://raw.githubusercontent.com/maqadeersaeed/maqadeersaeed/output/github-snake.svg" alt="GitHub Snake" />
 </div>
+
+
+<!--
+https://github.com/TechnologyHell/TechnologyHell/blob/main/README.md
+https://github.com/CelaDaniel/CelaDaniel/blob/main/README.md
+https://github.com/Tarikul-Islam-Anik
+-->
